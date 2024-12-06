@@ -18,6 +18,6 @@ jobs:
         run:
           variavel = "Hello World !!"
           print(variavel)
-        shell:  python
+        shell: python
           
           
